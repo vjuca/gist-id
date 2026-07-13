@@ -1,9 +1,21 @@
 # Education
 
-## KTH Royal Institute of Technology
-- Start: 2013
-- End: 2017
-- Qualification: MSc Computer Science
-- Field: Distributed Systems
+## FGV Fundação Getúlio Vargas
+- Start: 2019
+- End: 2019
+- Qualification: MBA Business Administration
+- Field: Business Administration
 
-Thesis on consensus protocols in partially-synchronous networks.
+## UPE Universidade de Pernambuco
+- Start: 2007
+- End: 2009
+- Qualification: MSc Computer Science
+- Field: Computer Graphics/Image Processing
+
+Thesis on texture segmentation algorithms towards computer vision.
+
+## UPE Universidade de Pernambuco
+- Start: 2002
+- End: 2007
+- Qualification: BSc Computer Science
+- Field: Computer Graphics/Image Processing

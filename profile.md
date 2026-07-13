@@ -1,19 +1,15 @@
-# Ada Renström
+# Vinicius Jucá
 
-Staff engineer working on distributed systems and developer tooling.
-Currently at Hexworks, previously SRE and platform roles across fintech.
+Cloud Architect and founding team member working on highly scalable, global streaming infrastructure.
+Currently Head of Tech Operations at YBVR, with previous pre-sales and systems integration roles at Ericsson.
 
-- Email: ada@example.com
-- Location: Berlin, DE
-- URL: https://gist.id/ada
-- Pronouns: she/her
-- Mastodon: @ada@hachyderm.io
+- Email: viniciusjuca@gmail.com
+- Location: Madrid, ES
+- URL: https://gist.id/vjuca
+- Pronouns: he/him
 
 ## About
 
-I write Rust for a living, mostly on async runtimes and observability
-pipelines. I'm interested in the boring middle layer of distributed systems
-— the bits that decide whether your week is calm or on fire.
-
-Outside work I maintain a couple of small open-source crates, run a quiet
-blog on systems engineering, and grow tomatoes badly.
+I’m a Madrid-based Cloud Architect with 15+ years of experience designing, deploying, and scaling cloud-native infrastructure (GCP/AWS). 
+My expertise lies in architecture and partner enablement (taking complex enterprise business challenges and mapping them to actionable technical designs). 
+I'm passionate about building resilient systems, optimizing cloud architectures, and fostering technical excellence across cross-functional teams.

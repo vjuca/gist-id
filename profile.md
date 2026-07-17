@@ -7,6 +7,7 @@ Currently Head of Tech Operations at YBVR, with previous pre-sales and systems i
 - Location: Madrid, ES
 - URL: https://gist.id/vjuca
 - Pronouns: he/him
+- LikedIn: https://www.linkedin.com/in/vinicius-juc%C3%A1-6011196b
 
 ## About
 

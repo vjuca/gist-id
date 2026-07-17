@@ -1,5 +1,5 @@
 # Languages
 
-## Portuguese (Native) 
-## English (Fluent)
-## Spanish (Fluent) 
+- Portuguese (Native) 
+- English (Fluent)
+- Spanish (Fluent) 
